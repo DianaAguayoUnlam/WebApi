@@ -56,7 +56,13 @@ namespace DAO
         {
             List<Necesidades> listadoNecesidades = new List<Necesidades>();
 
-            var listaObtenida = (from nec in context.Necesidades
+            var listaObtenida = (from nec in context.Necesidades.
+                                 Include("Usuarios").
+                                 Include("Denuncias").
+                                 Include("NecesidadesDonacionesInsumos")
+                                 .Include("NecesidadesDonacionesMonetarias").
+                                 Include("NecesidadesReferencias")
+                                .Include("NecesidadesValoraciones")
                                  where nec.FechaFin > DateTime.Now
                                  where nec.Estado == 1
                                  select nec);

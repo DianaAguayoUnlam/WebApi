@@ -15,7 +15,7 @@ namespace Servicios
         DonacionMonetariaDao DonacionMonetariaDao ;
 
         public ServicioDonacion(TpDBContext context)
-        {
+            {
             DonacionMonetariaDao = new DonacionMonetariaDao(context);
         }
 

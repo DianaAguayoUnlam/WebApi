@@ -177,3 +177,18 @@ D:\Proyecto Covid 19\App 9-6\App-Covid-19\DAO\obj\Debug\DAO.csproj.CoreCompileIn
 D:\Proyecto Covid 19\App 9-6\App-Covid-19\DAO\obj\Debug\DAO.csproj.CopyComplete
 D:\Proyecto Covid 19\App 9-6\App-Covid-19\DAO\obj\Debug\DAO.dll
 D:\Proyecto Covid 19\App 9-6\App-Covid-19\DAO\obj\Debug\DAO.pdb
+D:\DIANA\proyectosNET\WEB_API\App-Covid-19\DAO\bin\Debug\DAO.dll.config
+D:\DIANA\proyectosNET\WEB_API\App-Covid-19\DAO\bin\Debug\DAO.dll
+D:\DIANA\proyectosNET\WEB_API\App-Covid-19\DAO\bin\Debug\DAO.pdb
+D:\DIANA\proyectosNET\WEB_API\App-Covid-19\DAO\bin\Debug\Entidades.dll
+D:\DIANA\proyectosNET\WEB_API\App-Covid-19\DAO\bin\Debug\EntityFramework.dll
+D:\DIANA\proyectosNET\WEB_API\App-Covid-19\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\DIANA\proyectosNET\WEB_API\App-Covid-19\DAO\bin\Debug\Entidades.pdb
+D:\DIANA\proyectosNET\WEB_API\App-Covid-19\DAO\bin\Debug\Entidades.dll.config
+D:\DIANA\proyectosNET\WEB_API\App-Covid-19\DAO\bin\Debug\EntityFramework.xml
+D:\DIANA\proyectosNET\WEB_API\App-Covid-19\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\DIANA\proyectosNET\WEB_API\App-Covid-19\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\DIANA\proyectosNET\WEB_API\App-Covid-19\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\DIANA\proyectosNET\WEB_API\App-Covid-19\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\DIANA\proyectosNET\WEB_API\App-Covid-19\DAO\obj\Debug\DAO.dll
+D:\DIANA\proyectosNET\WEB_API\App-Covid-19\DAO\obj\Debug\DAO.pdb
